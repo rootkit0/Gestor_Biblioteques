@@ -1,0 +1,17 @@
+1: OK alta de libro con identificador 1
+2: OK alta de socio con identificador 1
+3: OK alta de libro con identificador 2
+4: OK alta de socio con identificador 2
+5: OK alta de libro con identificador 3
+6: OK alta de socio con identificador 3
+7: OK alta de libro con identificador 4
+8: OK alta de socio con identificador 4
+9: OK alta de libro con identificador 5
+10: OK alta de socio con identificador 5
+11: OK préstamo del libro con código 1 realizado con éxito al socio con identificador 1
+12: OK préstamo del libro con código 2 realizado con éxito al socio con identificador 1
+13: OK préstamo del libro con código 3 realizado con éxito al socio con identificador 1
+14: OK devolución del libro con código 1 realizada con éxito por el socio con identificador 1
+15: OK préstamo del libro con código 4 realizado con éxito al socio con identificador 1
+16: OK devolución del libro con código 2 realizada con éxito por el socio con identificador 1
+17: OK préstamo del libro con código 5 realizado con éxito al socio con identificador 1
